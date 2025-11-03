@@ -1,0 +1,38 @@
+Navchannia_programuvannu, [11/3/25 9:00 PM]
+*.swp
+*.swo
+*.viminfo
+
+Navchannia_programuvannu, [11/3/25 9:00 PM]
+.vscode/
+*.code-workspace
+
+Navchannia_programuvannu, [11/3/25 9:01 PM]
+.idea/
+*.iml
+
+Navchannia_programuvannu, [11/3/25 9:01 PM]
+# Временные файлы редакторов
+*.swp
+*.swo
+*.viminfo
+.vscode/
+.idea/
+
+# Личные и системные файлы
+*.log
+*.tmp
+*.bak
+*.DS_Store
+Thumbs.db
+*.gitconfig
+.profile
+.local/
+
+# Сборки и зависимости
+bin/
+obj/
+build/
+dist/
+node_modules/
+.env
